@@ -62,5 +62,5 @@ Edge-detected image
 
 If in Markdown, just reference them like:
 
-![Grayscale ECG](images/ecg_gray.pn)
-![Edge Detected ECG](images/ecg_edges.png)
+![Grayscale ECG](https://github.com/Rammsd007/ECG_Digitization/blob/fcc492402cd0175d8722d2fb10769f5e468534d8/1103133923-0001_gray.png)
+![Edge Detected ECG](https://github.com/Rammsd007/ECG_Digitization/blob/fcc492402cd0175d8722d2fb10769f5e468534d8/Screenshot%202025-10-27%20111418.png)
